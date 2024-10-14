@@ -763,7 +763,7 @@ datasArtifactTier15 = {1092926431,
 
 	datasWoodTier3 = {0x00000000,
 							0x00000000,
-							0x00000000,
+							0x00000000
 							0x00000000};
 	datasWoodLocationTier3 = {""};
 
